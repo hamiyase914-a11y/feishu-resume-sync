@@ -1,7 +1,15 @@
 {
-  "version": "9.6",
-  "download_url": "https://github.com/你的用户名/feishu-resume-sync/releases/download/v9.6/飞书简历同步工具.exe",
-  "changelog": "修复邮箱连接超时，新增批量删除历史记录",
+  "version": "10.0.0",
   "force_update": false,
-  "publish_date": "2026-06-02"
+  "changelog": [
+    "V10.0 新增：GitHub 在线自动检查更新功能",
+    "V10.0 新增：AI 优化唤醒提示词，一键复制到剪贴板",
+    "V10.0 新增：独立的更新检查标签页，显示版本对比和更新日志",
+    "V10.0 新增：启动时自动后台检查更新，不阻塞界面",
+    "V10.0 新增：强制更新机制，关键版本可强制用户升级",
+    "保留 V9.5 全部功能：邮箱同步、本地扫描、URL 解析、招聘专员标记"
+  ],
+  "download_url": "https://github.com/hamiyase914-a11y/feishu-resume-sync/releases/latest",
+  "min_version": "9.0.0",
+  "release_date": "2026-06-02"
 }
