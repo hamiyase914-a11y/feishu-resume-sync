@@ -1,0 +1,7 @@
+{
+  "version": "9.6",
+  "download_url": "https://github.com/你的用户名/feishu-resume-sync/releases/download/v9.6/飞书简历同步工具.exe",
+  "changelog": "修复邮箱连接超时，新增批量删除历史记录",
+  "force_update": false,
+  "publish_date": "2026-06-02"
+}
