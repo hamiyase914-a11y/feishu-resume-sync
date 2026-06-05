@@ -1,5 +1,5 @@
 {
-  "version": "10.0.1",           // 最新版本号
+  "version": "10.0.0",           // 最新版本号
   "force_update": true,         // 是否强制更新（true=必须升级）
   "changelog": [...],            // 更新日志列表
   "download_url": "...",       // 下载链接（指向 GitHub Releases）
