@@ -1,8 +1,12 @@
 {
-  "version": "10.0.0",           
-  "force_update": true,         
-  "changelog": [...],            
-  "download_url": "...",       
+  "version": "10.0.1",
+  "force_update": false,
+  "changelog": [
+    "修复：本地简历重复上传问题",
+    "修复：所有页面内容超出时可滚动查看",
+    "修复：底部按钮在不同分辨率/DPI缩放下始终可见"
+  ],
+  "download_url": "https://github.com/hamiyase914-a11y/feishu-resume-sync/releases/download/v10.0.1/feishu-resume-sync-v10.0.1.exe",
   "release_date": "2026-06-05",
-  "min_version": "9.0.0"       
+  "min_version": "9.0.0"
 }
