@@ -1,8 +1,8 @@
 {
-  "version": "10.0.0",           // 最新版本号
-  "force_update": true,         // 是否强制更新（true=必须升级）
-  "changelog": [...],            // 更新日志列表
-  "download_url": "...",       // 下载链接（指向 GitHub Releases）
+  "version": "10.0.0",           
+  "force_update": true,         
+  "changelog": [...],            
+  "download_url": "...",       
   "release_date": "2026-06-05",
-  "min_version": "9.0.0"       // 支持的最低版本
+  "min_version": "9.0.0"       
 }
